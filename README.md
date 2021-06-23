@@ -1,4 +1,20 @@
 # zzclabel
+
+/***
+ *             ,%%%%%%%%,
+ *           ,%%/\%%%%/\%%
+ *          ,%%%\c "" J/%%%
+ * %.       %%%%/ o  o \%%%
+ * `%%.     %%%%    _  |%%%
+ *  `%%     `%%%%(__Y__)%%'
+ *  //       ;%%%%`\-/%%%'
+ * ((       /  `%%%%%%%'
+ *  \\    .'          |
+ *   \\  /       \  | |
+ *    \\/         ) | |
+ *     \         /_ | |__
+ *     (___________))))))) ZZC GO!~
+
 A python package for reading, writing, visualizing, analyzing any form of object detection labels.
 
 ## requirements
