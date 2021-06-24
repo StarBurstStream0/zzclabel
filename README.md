@@ -22,6 +22,12 @@
 A python package for reading, writing, visualizing, analyzing any form of object detection labels.
 
 ## Requirements
+- python3.+
+- numpy
+- cv2
+- tqdm
+- xmltodict
+- zzclog
 
 ## Getting started
 
