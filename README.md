@@ -21,9 +21,9 @@
 
 A python package for reading, writing, visualizing, analyzing any form of object detection labels.
 
-## requirements
+## Requirements
 
-## getting started
+## Getting started
 
-## a few words
+## A few words
 A DIY code for solving the daily labels transferring problems. Welcome to put forward suggestions on the function and bug modification of it!
